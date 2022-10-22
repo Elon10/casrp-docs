@@ -1,0 +1,1 @@
+import{_ as t,c as e,o,a as d}from"./app.4b0b8009.js";const p=JSON.parse('{"title":"Moderation","description":"","frontmatter":{},"headers":[],"relativePath":"commands/moderation.md"}'),r={name:"commands/moderation.md"},n=d("",4),s=[n];function c(a,g,m,i,l,u){return o(),e("div",null,s)}const h=t(r,[["render",c]]);export{p as __pageData,h as default};

@@ -1,0 +1,1 @@
+import{_ as t,c as a,o as e,a as s}from"./app.4b0b8009.js";const y=JSON.parse('{"title":"Giveaways","description":"","frontmatter":{},"headers":[],"relativePath":"commands/giveaways.md"}'),d={name:"commands/giveaways.md"},o=s("",4),r=[o];function g(n,i,c,l,v,m){return e(),a("div",null,r)}const _=t(d,[["render",g]]);export{y as __pageData,_ as default};

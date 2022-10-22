@@ -51,7 +51,7 @@ export const teamMembers: CoreTeam[] = [
 {
     avatar: 'https://cdn.discordapp.com/embed/avatars/0.png',
     name: 'Hi801',
-    title: 'Assistan Director',
+    title: 'Assistant Director',
     links: [
         { icon: 'discord', link: 'https://discord.com/users/250840062286102530' }
     ]

@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "docs:dev": "vitepress dev src",
-    "docs:build": "vitepress build src docs",
+    "docs:build": "vitepress build src",
     "docs:serve": "vitepress serve src"
   },
   "keywords": [],

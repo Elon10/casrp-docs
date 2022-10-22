@@ -33,7 +33,7 @@ export const teamMembers: CoreTeam[] = [
     ]
   },
 {
-    avatar: 'https://cdn.discordapp.com/avatars/710271395438788660/a_76ada6ff7d11bf863ba4340f68f313e4.gif?size=512',
+    avatar: 'https://cdn.discordapp.com/avatars/710271395438788660/a_8b60a559052841cf282c5096255da356.gif?size=512',
     name: 'OpticalDrop',
     title: 'Director',
     links: [

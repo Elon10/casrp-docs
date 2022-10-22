@@ -12,7 +12,7 @@ hero:
       text: Get Started
       link: /intro/
     - theme: alt
-      text: ERl:LC
+      text: ERL:LC
       link: https://www.roblox.com/games/2534724415/Emergency-Response-Liberty-County
     - theme: alt
       text: Discord Server
